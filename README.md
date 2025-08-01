@@ -15,4 +15,6 @@ Unbalanced distribution of data across partitions or nodes.
 3- write partitined data to Delta   
 
 
+
+
 <img width="950" height="282" alt="image" src="https://github.com/user-attachments/assets/923b9234-a417-482b-9d84-db9e0c9d2a5f" />
