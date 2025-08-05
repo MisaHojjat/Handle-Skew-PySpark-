@@ -12,9 +12,13 @@ Unbalanced distribution of data across partitions or nodes.
 ## How to handle Data skew:   
 1- use repartition() with salting to balance skew   
 2- clean critical fields   
-3- write partitined data to Delta   
+3- write partitined data to Delta 
+4- Salting
 
 
 
 
 <img width="950" height="282" alt="image" src="https://github.com/user-attachments/assets/923b9234-a417-482b-9d84-db9e0c9d2a5f" />
+
+
+
