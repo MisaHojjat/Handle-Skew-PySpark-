@@ -13,8 +13,8 @@ Unbalanced distribution of data across partitions or nodes.
 1- use repartition() with salting to balance skew   
 2- clean critical fields   
 3- write partitined data to Delta      
-4- Add processing date
-   - Makes incremental processing and queries more efficient
+4- Add processing date                   
+- Makes incremental processing and queries more efficient
 
 
 
